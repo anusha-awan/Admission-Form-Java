@@ -33,6 +33,21 @@ The system has **two versions**:
 
 ---
 
+## 📸 Screenshots
+
+### 🎨 GUI Interface
+
+![GUI Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/adm1.png)
+![GUI Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/form_entry.png)
+![GUI Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/form_submission.png)
+![GUI Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/intscore_entry.png)
+![GUI Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/intscore_submission.png)
+![GUI Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/test_list.png)
+![GUI Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/meritlist.png)
+
+### 🖥️ Console Output
+![Console Screenshot](https://github.com/anusha-awan/Admission-Form-Java/blob/main/consoleoutput.png)
+
 ## 🚀 How to Run  
 
 ### 1. Console Version  
